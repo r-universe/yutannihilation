@@ -1,0 +1,13 @@
+[
+  {
+    "package": "string2path",
+    "oncran": true
+  },
+  {
+    "package": "gghighlight",
+    "oncran": true
+  },
+  {
+    "package": "cutnumberint"
+  }
+]

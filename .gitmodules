@@ -1,5 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/yutannihilation/universe
 	shallow = true
 	branch = HEAD
+[submodule "string2path"]
+	path = string2path
+	url = https://github.com/yutannihilation/string2path
+	shallow = true
+	registered = true
+[submodule "gghighlight"]
+	path = gghighlight
+	url = https://github.com/yutannihilation/gghighlight
+	shallow = true
+	registered = true
+[submodule "cutnumberint"]
+	path = cutnumberint
+	url = https://github.com/yutannihilation/cutnumberint
+	shallow = true
+	registered = true
