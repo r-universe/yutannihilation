@@ -13,6 +13,11 @@
 	url = https://github.com/yutannihilation/gghighlight
 	shallow = true
 	registered = true
+[submodule "fledgingr"]
+	path = fledgingr
+	url = https://github.com/yutannihilation/fledgingr
+	shallow = true
+	registered = true
 [submodule "cutnumberint"]
 	path = cutnumberint
 	url = https://github.com/yutannihilation/cutnumberint
