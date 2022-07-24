@@ -1,0 +1,8 @@
+[
+  {
+    "package": "ggplot2",
+    "url": "https://github.com/tidyverse/ggplot2",
+    "via": ["gghighlight"],
+    "from": "gghighlight"
+  }
+]
