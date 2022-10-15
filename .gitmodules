@@ -28,3 +28,8 @@
 	url = https://github.com/tidyverse/ggplot2
 	shallow = true
 	registered = false
+[submodule "lifecycle"]
+	path = lifecycle
+	url = https://github.com/r-lib/lifecycle
+	shallow = true
+	registered = false
