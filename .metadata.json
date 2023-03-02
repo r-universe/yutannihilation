@@ -1,6 +1,7 @@
 [
   {
-    "package": "string2path"
+    "package": "string2path",
+    "oncran": true
   },
   {
     "package": "gghighlight",
