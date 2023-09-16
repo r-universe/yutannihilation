@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/yutannihilation/universe
 	branch = HEAD
-[submodule "string2path"]
-	path = string2path
-	url = https://github.com/yutannihilation/string2path
-[submodule "gghighlight"]
-	path = gghighlight
-	url = https://github.com/yutannihilation/gghighlight
-[submodule "fledgingr"]
-	path = fledgingr
-	url = https://github.com/yutannihilation/fledgingr
 [submodule "cutnumberint"]
 	path = cutnumberint
 	url = https://github.com/yutannihilation/cutnumberint
+[submodule "fledgingr"]
+	path = fledgingr
+	url = https://github.com/yutannihilation/fledgingr
+[submodule "gghighlight"]
+	path = gghighlight
+	url = https://github.com/yutannihilation/gghighlight
+[submodule "string2path"]
+	path = string2path
+	url = https://github.com/yutannihilation/string2path
