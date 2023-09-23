@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/yutannihilation/universe
+	url = https://github.com/yutannihilation/yutannihilation.r-universe.dev
 	branch = HEAD
 [submodule "cutnumberint"]
 	path = cutnumberint
@@ -11,6 +11,9 @@
 [submodule "gghighlight"]
 	path = gghighlight
 	url = https://github.com/yutannihilation/gghighlight
+[submodule "savvy"]
+	path = savvy
+	url = https://github.com/yutannihilation/savvy-helper-R-package
 [submodule "string2path"]
 	path = string2path
 	url = https://github.com/yutannihilation/string2path
