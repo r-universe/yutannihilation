@@ -14,6 +14,7 @@
 [submodule "savvyExamples"]
 	path = savvyExamples
 	url = https://github.com/yutannihilation/savvy-webr-test
+	subdir = savvyExamples
 [submodule "string2path"]
 	path = string2path
 	url = https://github.com/yutannihilation/string2path
