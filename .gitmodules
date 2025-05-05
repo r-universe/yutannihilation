@@ -17,6 +17,3 @@
 [submodule "vellogd"]
 	path = vellogd
 	url = https://github.com/yutannihilation/vellogd-r
-[submodule "winitRPackage"]
-	path = winitRPackage
-	url = https://github.com/yutannihilation/winitRPackage
