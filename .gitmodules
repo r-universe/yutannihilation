@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/yutannihilation/yutannihilation.r-universe.dev
 	branch = HEAD
+[submodule "b64"]
+	path = b64
+	url = https://github.com/yutannihilation/b64
 [submodule "cutnumberint"]
 	path = cutnumberint
 	url = https://github.com/yutannihilation/cutnumberint
