@@ -11,9 +11,10 @@
 [submodule "savvy"]
 	path = savvy
 	url = https://github.com/yutannihilation/savvy-helper-R-package
+[submodule "savvyExamples"]
+	path = savvyExamples
+	url = https://github.com/yutannihilation/savvy
+	subdir = R-package
 [submodule "string2path"]
 	path = string2path
 	url = https://github.com/yutannihilation/string2path
-[submodule "vellogd"]
-	path = vellogd
-	url = https://github.com/yutannihilation/vellogd-r
