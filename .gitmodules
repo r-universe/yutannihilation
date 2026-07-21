@@ -8,6 +8,9 @@
 [submodule "gghighlight"]
 	path = gghighlight
 	url = https://github.com/yutannihilation/gghighlight
+[submodule "ggplot2qgis"]
+	path = ggplot2qgis
+	url = https://github.com/yutannihilation/ggplot2qgis
 [submodule "savvy"]
 	path = savvy
 	url = https://github.com/yutannihilation/savvy-helper-R-package
